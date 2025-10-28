@@ -1,4 +1,4 @@
-# Online-Alarm-Clock
+# Assistance-Tools-Software
 Installation for the software application
 This installation step is essential to run the Alarm Clock, Timer, and Pomodoro Timer applications using the Anaconda Prompt.
 
